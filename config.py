@@ -7,22 +7,22 @@ API_ID = int(os.environ.get("API_ID", "39398322"))
 # ------------------------------------------------
 API_HASH = os.environ.get("API_HASH","b09b6dd8517b08add2dfd44e564c0a9b")
 # ------------------------------------------------
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8647293188:AAFeuHZr6xXHzN27Na-EhDN-ccko7hhOQWY")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8651922117:AAG6xjiOepvdB95FGujqkrm8KtxaAmRo3xI")
 # ------------------------------------------------
-BOT_USERNAME = os.environ.get("BOT_USERNAME", "@sujitkextractor_bot")
+BOT_USERNAME = os.environ.get("BOT_USERNAME", "@Sujit8665_bot")
 BOT_TEXT = "SUJIT K EXTRACTOR"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "6781856827"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003933825797"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004460777661"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002195125473")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://besib69802:YMOfgvnyjbRgW5qt@cluster0.yzzu2gn.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003933825797"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1004460777661"))
 # -----------------------------------------------
 join = '<a href="https://t.me/extractorkupdates">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
